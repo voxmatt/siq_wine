@@ -1,0 +1,3 @@
+rootProject.name = 'siq_wine'
+
+include ':app'
